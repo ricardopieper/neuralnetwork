@@ -1,4 +1,7 @@
 # neuralnetwork
+
+### Obsolete: This project became ProphetService (https://github.com/ricardopieper/ProphetService), a background service for a web app.
+
 Neural Network using FLENS and OpenBLAS. 
 Inspired on the Coursera's Machine Learning material (Andew Ng's Course).
 
